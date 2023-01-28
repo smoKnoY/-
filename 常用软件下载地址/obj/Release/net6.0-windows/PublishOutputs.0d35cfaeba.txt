@@ -1,0 +1,5 @@
+C:\Users\tanxu\Desktop\测试版\常用软件下载地址.exe
+C:\Users\tanxu\Desktop\测试版\常用软件下载地址.dll
+C:\Users\tanxu\Desktop\测试版\常用软件下载地址.deps.json
+C:\Users\tanxu\Desktop\测试版\常用软件下载地址.runtimeconfig.json
+C:\Users\tanxu\Desktop\测试版\常用软件下载地址.pdb

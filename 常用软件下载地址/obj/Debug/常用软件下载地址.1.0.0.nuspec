@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>常用软件下载地址</id>
+    <version>1.0.0</version>
+    <authors>常用软件下载地址</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\tanxu\source\repos\常用软件下载地址\常用软件下载地址\bin\Debug\net6.0-windows\常用软件下载地址.runtimeconfig.json" target="lib\net6.0-windows7.0\常用软件下载地址.runtimeconfig.json" />
+    <file src="C:\Users\tanxu\source\repos\常用软件下载地址\常用软件下载地址\bin\Debug\net6.0-windows\常用软件下载地址.dll" target="lib\net6.0-windows7.0\常用软件下载地址.dll" />
+  </files>
+</package>
